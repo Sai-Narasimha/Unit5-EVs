@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "first_name": "sai",
+      "last_name": "Narasimha",
+      "email": "sai@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "100",
+      "twelth_score": "200",
+      "branch": "",
+      "preferred_branch": "commerce",
+      "id": 1
+    },
+    {
+      "first_name": "Nani",
+      "last_name": "nani",
+      "email": "nani@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "200",
+      "twelth_score": "220",
+      "branch": "",
+      "preferred_branch": "sports",
+      "id": 2
+    },
+    {
+      "first_name": "malli",
+      "last_name": "karjuna",
+      "email": "malli@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "tenth_score": "200",
+      "twelth_score": "210",
+      "branch": "",
+      "preferred_branch": "commerce",
+      "id": 3
+    }
+  ]
+}

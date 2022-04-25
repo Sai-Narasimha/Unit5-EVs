@@ -1,0 +1,16 @@
+.addstudent{
+  margin-left: 40%;
+}
+.controls{
+  margin-left: 37%;
+  display: flex;
+  gap: 5%;
+}
+.table{
+  margin-left: 30%;
+  margin-top: 20px;
+}
+.togglebtn{
+  margin-left:45%;
+  margin-bottom: 10px;
+}
