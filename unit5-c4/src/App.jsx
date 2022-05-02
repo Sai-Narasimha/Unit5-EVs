@@ -7,6 +7,7 @@ import { Logout } from "./components/Logout";
 import { NewOrder } from "./components/NewOrder";
 import { Orders } from "./components/Orders";
 import { ProtectedRoute } from "./components/ProtextedRoute";
+import './App.css'
 
 function App() {
   const status = useSelector(store=>store.isLoggedIn)
